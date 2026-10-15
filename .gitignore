@@ -8,7 +8,7 @@ build/
 *.map
 *.lst
 
-# Eclipse projektfájlok (ha tiszta forráskódot akarsz, de a .cproject/.project-et sokan benne hagyják, hogy egyből nyitható legyen)
+# Eclipse projektfájlok
 .metadata/
 .settings/
 .classpath
